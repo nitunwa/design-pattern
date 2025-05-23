@@ -22,5 +22,9 @@ public class ArticleBuilder {
         return this;
     }
 
+    public Article createArticle() {
+        // if this object is null return with exception
+        return new Article(title,text,category);
+    }
 
 }
