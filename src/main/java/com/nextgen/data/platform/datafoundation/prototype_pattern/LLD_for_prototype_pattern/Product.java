@@ -1,3 +1,4 @@
+<<<<<<< HEAD:src/main/java/com/nextgen/data/platform/datafoundation/prototype_pattern/LLD_for_prototype_pattern/Product.java
 package com.nextgen.data.platform.datafoundation.prototype_pattern.LLD_for_prototype_pattern;
 
 import java.util.UUID;
@@ -53,4 +54,7 @@ public class Product implements Cloneable{
     }
 
 
+=======
+package com.nextgen.data.platform.datafoundation.prototype_pattern.LLD_for_prototype_pattern;public class Product {
+>>>>>>> db121daf4e54fd2d78f0f4ec7cc85bda7ca86ddf:design-pattern/src/main/java/com/nextgen/data/platform/datafoundation/prototype_pattern/LLD_for_prototype_pattern/Product.java
 }

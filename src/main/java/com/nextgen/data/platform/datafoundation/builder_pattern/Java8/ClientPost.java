@@ -1,3 +1,4 @@
+<<<<<<< HEAD:src/main/java/com/nextgen/data/platform/datafoundation/builder_pattern/Java8/ClientPost.java
 package com.nextgen.data.platform.datafoundation.builder_pattern.Java8;
 
 import java.util.HashMap;
@@ -33,3 +34,7 @@ public class ClientPost {
         BiConsumer<GenericPost, String> setTitleConsumer = GenericPost::setTitle;
         setTitleConsumer.accept(postInstance, "Builder Pattern");
         postInstance.setTitle("Builder Pattern");*/
+=======
+package com.nextgen.data.platform.datafoundation.builder_pattern.Java8;public class ClientPost {
+}
+>>>>>>> db121daf4e54fd2d78f0f4ec7cc85bda7ca86ddf:design-pattern/src/main/java/com/nextgen/data/platform/datafoundation/builder_pattern/Java8/ClientPost.java

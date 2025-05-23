@@ -1,3 +1,4 @@
+<<<<<<< HEAD:src/main/java/com/nextgen/data/platform/datafoundation/builder_pattern/Java8/GenericBuilder.java
 package com.nextgen.data.platform.datafoundation.builder_pattern.Java8;
 
 import java.util.ArrayList;
@@ -32,4 +33,7 @@ public class GenericBuilder<T> {
         }
         return value;
     }
+=======
+package com.nextgen.data.platform.datafoundation.builder_pattern.Java8;public class GenericBuilder {
+>>>>>>> db121daf4e54fd2d78f0f4ec7cc85bda7ca86ddf:design-pattern/src/main/java/com/nextgen/data/platform/datafoundation/builder_pattern/Java8/GenericBuilder.java
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD:src/main/java/com/nextgen/data/platform/datafoundation/builder_pattern/Java8/ClientArticle.java
 package com.nextgen.data.platform.datafoundation.builder_pattern.Java8;
 
 public class ClientArticle {
@@ -14,3 +15,7 @@ public class ClientArticle {
 }
 
 // https://dev.to/parthasutradhar/generic-payload-in-java-3peb
+=======
+package com.nextgen.data.platform.datafoundation.builder_pattern.Java8;public class ClientArticle {
+}
+>>>>>>> db121daf4e54fd2d78f0f4ec7cc85bda7ca86ddf:design-pattern/src/main/java/com/nextgen/data/platform/datafoundation/builder_pattern/Java8/ClientArticle.java
